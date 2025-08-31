@@ -1,4 +1,4 @@
-# Vband-USB-Adapter
+# Vband USB Adapter
 Used for practice CW QSOs without go to air
 
 ![WhatsApp Image 2025-08-30 at 11 43 23 (1)](https://github.com/user-attachments/assets/06087c5f-7961-42e1-ad18-1a6fc951d011)
